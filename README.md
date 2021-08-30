@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi there, I'am Lakshya 👋
 
+## Try to learn about Technologies Old or New
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
