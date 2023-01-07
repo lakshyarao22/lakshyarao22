@@ -1,6 +1,9 @@
 # Hi there, I'am Lakshya 👋
+A wanderer🌍, truth seeker🎩, philosopher💡 and nothing like that.
 
-## Learning about Technologies Old or New
+Just an ordinary guy trying to learn everything ASAP⚡.
+
+## 
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
