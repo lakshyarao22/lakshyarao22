@@ -1,4 +1,4 @@
-# Hi there, I'am Lakshya 👋
+<h1 align=center>Hi there, I'am Lakshya 👋</h1>
 A wanderer🌍, truth seeker🎩, philosopher💡 and nothing like that.
 
 Just an ordinary guy trying to learn everything ASAP⚡.
