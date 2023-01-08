@@ -8,11 +8,16 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 - 🤔 I’m looking for help with Cyber Security and Development.
 - ⚡ Fun fact: BTW i use Arch.
 
+<h2 align=center>Languages I Code in</h2>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,flutter,figma,arch,neovim,arcsight" />
-  </a>
+    <img src="https://skillicons.dev/icons?i=flutter,dart,c,py,js,html,css,bash,md,cpp,sqlite" />
 </p>
+
+<h2 align=center>Tools I Use</h2>
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=git,figma,linux,aws,gcp,raspberrypi,ps,svg,vscode,xd" />
+</p>
+
 
 ## Github Status
 [![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
