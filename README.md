@@ -27,7 +27,7 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 <hr>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&layout=compact&theme=transparent&hide_border=true">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=transparent&hide_border=true">
 </p>
 
 
