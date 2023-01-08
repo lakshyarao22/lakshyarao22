@@ -17,11 +17,9 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 <p align="center">
     <img src="https://skillicons.dev/icons?i=git,figma,linux,aws,gcp,raspberrypi,ps,svg,vscode,xd" />
 </p>
-
-
-## Github Status
+---
 [![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-## Top Languages
+---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
