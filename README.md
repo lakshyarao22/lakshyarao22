@@ -8,6 +8,12 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 - 🤔 I’m looking for help with Cyber Security and Development.
 - ⚡ Fun fact: BTW i use Arch.
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,flutter,figma,arch,neovim,arcsight" />
+  </a>
+</p>
+
 ## Github Status
 [![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 ## Top Languages
