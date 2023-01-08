@@ -20,7 +20,9 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 
 <br>
 
+<p align="center">
 [![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 <br>
 
