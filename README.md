@@ -18,15 +18,19 @@ Just an ordinary guy trying to learn everything ASAP⚡.
     <img src="https://skillicons.dev/icons?i=git,figma,linux,aws,gcp,raspberrypi,ps,svg,vscode,xd" />
 </p>
 
-<br>
+<hr>
+
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true" alt="Material Bread logo">
 </p>
-[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br>
+<hr>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&layout=compact&theme=transparent&hide_border=true">
+</p>
+
+
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
