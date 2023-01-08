@@ -9,7 +9,7 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 - ⚡ Fun fact: BTW i use Arch.
 
 
-[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 ## 
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
