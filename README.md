@@ -8,6 +8,8 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 - 🤔 I’m looking for help with Cyber Security and Development.
 - ⚡ Fun fact: BTW i use Arch.
 
+
+[![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22)](https://github.com/anuraghazra/github-readme-stats)
 ## 
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
