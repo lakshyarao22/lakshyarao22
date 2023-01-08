@@ -20,7 +20,7 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 
 <br>
 <p align="center">
-    <img width="200" src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true" alt="Material Bread logo">
+    <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true" alt="Material Bread logo">
 </p>
 [![Lakshya's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
