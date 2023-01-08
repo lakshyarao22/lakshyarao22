@@ -3,6 +3,11 @@ A wanderer🌍, truth seeker🎩, philosopher💡 and nothing like that.
 
 Just an ordinary guy trying to learn everything ASAP⚡.
 
+- 🔭 I’m currently working on Security Operations🔒.
+- 🌱 I’m currently learning Ethical Hacking💻.
+- 🤔 I’m looking for help with Cyber Security and Development.
+- ⚡ Fun fact: BTW i use Arch.
+
 ## 
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
