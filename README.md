@@ -10,7 +10,7 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 
 |Languages I Code in | Tools I Use |
 |---|---|
-|<img src="https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5" /> | <img src="https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,androidstudio,vscode,figma,materialui,ps,pr,ai,xd,ae,unreal,blender,svg" /> |
+|<img src="https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5" /> | <img src="https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,androidstudio,vscode,figma,materialui,ps,pr,ai,xd,ae,unreal,blender,svg&perline=5" /> |
 
 <p >
     <img align="right" src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=midnight-purple&layout=compact" alt="Material Bread logo">
