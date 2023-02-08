@@ -8,9 +8,13 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 - 🤔 I’m looking for help with Cyber Security and Development.
 - ⚡ Fun fact: BTW i use ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white).
 
+|Languages I Code in | Tools I Use |
+|---|---|
+|<img src="[https://skillicons.dev/icons?i=flutter,dart,c,py,js,html,css,bash,md,cpp,sqlite](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5&theme=light)" /> | <img src="https://skillicons.dev/icons?i=git,figma,linux,aws,gcp,raspberrypi,ps,svg,vscode,xd" /> |
+
 <h2 align=center>Languages I Code in</h2>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,c,py,js,html,css,bash,md,cpp,sqlite" />
+    <img src="[https://skillicons.dev/icons?i=flutter,dart,c,py,js,html,css,bash,md,cpp,sqlite](https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5&theme=light)" />
 </p>
 
 <h2 align=center>Tools I Use</h2>
