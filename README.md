@@ -6,7 +6,7 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 - 🔭 I’m currently working on Security Operations🔒.
 - 🌱 I’m currently learning Ethical Hacking💻.
 - 🤔 I’m looking for help with Cyber Security and Development.
-- ⚡ Fun fact: BTW i use <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" width = 6%>.
+- ⚡ Fun fact: BTW i use <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" width = 7%>.
 
 
 |Languages I Code in | Tools I Use |
