@@ -20,13 +20,11 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 
 <hr>
 
-<p align="center">
+<p align="right">
     <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&hide_border=true" alt="Material Bread logo">
 </p>
 
-<hr>
-
-<p align="center">
+<p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=transparent&hide_border=true">
 </p>
 
