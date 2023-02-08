@@ -21,8 +21,8 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 <hr>
 
 <p >
-    <img align="right" src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=dark&hide_border=true&layout=compact" alt="Material Bread logo">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=dark&hide_border=true&layout=compact">
+    <img align="right" src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=midnight-purple&layout=compact" alt="Material Bread logo">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=midnight-purple&layout=compact">
 </p>
 
 <!--
