@@ -8,18 +8,18 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 - 🤔 I’m looking for help with Cyber Security and Development.
 - ⚡ Fun fact: BTW i use <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" height = 5%>.
 
-##🤹 Skills
+## 🤹 Skills
 
 |Languages I Code in | Tools I Use |
 |---|---|
 |<img src="https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5" /> | <img src="https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,androidstudio,vscode,figma,materialui,ps,pr,ai,xd,ae,unreal,blender,svg&perline=5" /> |
 
-##📊 Metrics
+## 📊 Metrics
 | Github Stats | Most Used Language |
 |---|---|
 | <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=midnight-purple&layout=compact" alt="Material Bread logo"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=midnight-purple&layout=compact"> |
 
-##📖 Before going write something in my [Guestbook](https://github.com/lakshyarao22/lakshyarao22/issues/1#issuecomment-new)
+## 📖 Before going write something in my [Guestbook](https://github.com/lakshyarao22/lakshyarao22/issues/1#issuecomment-new)
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
