@@ -23,7 +23,6 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-|[![lakshyarao22](https://avatars.githubusercontent.com/u/5268175?s=24&u=d1a475ea1cf11af847c2466d85078a2490166ae1&v=4)<br />lakshyarao22](https://github.com/lakshyarao22)|3/11/2023, 2:33:55 PM|Testing a new feature|
 <!-- /Guestbook -->
 <!--
 **lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
