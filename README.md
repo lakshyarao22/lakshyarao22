@@ -23,9 +23,7 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 <!-- Guestbook -->
 | Name | Date | Message |
 |---|---|---|
-| <a href="https://github.com/TrippyAF"><img width="24" src="https://avatars.githubusercontent.com/u/68512275?s=24&v=4" alt="TrippyAF" /> TrippyAF</a> |3/11/2023, 2:53:32 PM|Is this real|
 | <a href="https://github.com/TrippyAF"><img width="24" src="https://avatars.githubusercontent.com/u/68512275?s=24&v=4" alt="TrippyAF" /> TrippyAF</a> |3/11/2023, 2:51:01 PM|is this real|
-| <a href="https://github.com/lakshyarao22"><img width="24" src="https://avatars.githubusercontent.com/u/5268175?s=24&u=d1a475ea1cf11af847c2466d85078a2490166ae1&v=4" alt="lakshyarao22" /> lakshyarao22</a> |3/11/2023, 2:49:17 PM|I am the owner|
 | <a href="https://github.com/lakshyarao22"><img width="24" src="https://avatars.githubusercontent.com/u/5268175?s=24&u=d1a475ea1cf11af847c2466d85078a2490166ae1&v=4" alt="lakshyarao22" /> lakshyarao22</a> |3/11/2023, 2:47:00 PM|Is this the New trend|
 <!-- /Guestbook -->
 <!--
