@@ -17,7 +17,7 @@ Just an ordinary guy trying to learn everything ASAP⚡.
 ## 📊 Metrics
 | Github Stats | Most Used Language |
 |---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&layout=compact&hide_border=true" alt="Material Bread logo"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=transparent&layout=compact&hide_border=true"> |
+| <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&layout=compact&hide_border=true&hide_title=true" alt="Material Bread logo"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=transparent&layout=compact&hide_border=true&hide_title=true"> |
 
 ## 📖 Before going write something in my [Guestbook](https://github.com/lakshyarao22/lakshyarao22/issues/1#issuecomment-new)
 <!-- Guestbook -->
