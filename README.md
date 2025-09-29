@@ -1,4 +1,4 @@
-<h1 align=center>Hi there, I'am Lakshya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></h1>
+<h1 align=center>Hi there, I'm Lakshya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></h1>
 A wanderer🌍, truth seeker🎩, philosopher💡 and nothing like that.
 
 Just an ordinary guy trying to learn everything ASAP⚡.
