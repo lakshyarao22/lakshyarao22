@@ -1,42 +1,105 @@
-<h1 align=center>Hi there, I'm Lakshya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></h1>
-A wanderer🌍, truth seeker🎩, philosopher💡 and nothing like that.
+<h1 align="center">Hey there! I'm Lakshya Rao 👋</h1>
 
-Just an ordinary guy trying to learn everything ASAP⚡.
+<p align="center">
+  <em>Security Engineer by profession. Developer & tinkerer by obsession.</em>
+</p>
 
-- 🔭 I’m currently working on Security Operations🔒.
-- 🌱 I’m currently learning Ethical Hacking💻.
-- 🤔 I’m looking for help with Cyber Security and Development.
-- ⚡ Fun fact: BTW i use <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white" height = 5%>.
+<p align="center">
+  <a href="https://about.inqstv.in/">🌐 Website</a> •
+  <a href="https://lakshyarao22.github.io/portfolio/">📂 Portfolio</a>
+</p>
 
-## 🤹 Skills
+---
 
-|Languages I Code in | Tools I Use |
-|---|---|
-|<img src="https://skillicons.dev/icons?i=flutter,dart,c,py,bash,html,css,js,md,cpp,rust,kotlin,arduino,sqlite,mysql,lua,regex,ts,nginx,nodejs&perline=5" /> | <img src="https://skillicons.dev/icons?i=git,linux,bsd,aws,gcp,raspberrypi,nginx,neovim,androidstudio,vscode,figma,materialui,ps,pr,ai,xd,ae,unreal,blender,svg&perline=5" /> |
+### 🔐 What I Do
 
-## 📊 Metrics
-| Github Stats | Most Used Language |
-|---|---|
-| <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=transparent&layout=compact&hide_border=true&hide_title=true" alt="Material Bread logo"> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&theme=transparent&layout=compact&hide_border=true&hide_title=true"> |
+I'm a **Cybersecurity Engineer** and member of a **CSIRT** (Computer Security Incident Response Team), where I build security automation tooling, develop SIEM detection content, and create incident response workflows that help defenders move faster.
 
-## 📖 Before going write something in my [Guestbook](https://github.com/lakshyarao22/lakshyarao22/issues/1#issuecomment-new)
-<!-- Guestbook -->
-| Name | Date | Message |
-|---|---|---|
-| <a href="https://github.com/TrippyAF"><img width="24" src="https://avatars.githubusercontent.com/u/68512275?s=24&v=4" alt="TrippyAF" /> TrippyAF</a> |3/11/2023, 2:51:01 PM|is this real|
-| <a href="https://github.com/lakshyarao22"><img width="24" src="https://avatars.githubusercontent.com/u/5268175?s=24&u=d1a475ea1cf11af847c2466d85078a2490166ae1&v=4" alt="lakshyarao22" /> lakshyarao22</a> |3/11/2023, 2:47:00 PM|Is this the New trend|
-<!-- /Guestbook -->
-<!--
-**lakshyarao22/lakshyarao22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+When I'm not responding to incidents, I'm writing code — from browser extensions and mobile apps to homelab infrastructure and retro gaming themes.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+<details>
+<summary><b>Languages</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Lua](https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+
+</details>
+
+<details>
+<summary><b>Security & Cloud</b></summary>
+<br>
+
+![Splunk](https://img.shields.io/badge/-Splunk-000000?style=flat-square&logo=splunk&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![NixOS](https://img.shields.io/badge/-NixOS-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+</details>
+
+<details>
+<summary><b>Tools & Editors</b></summary>
+<br>
+
+![Neovim](https://img.shields.io/badge/-Neovim-57A143?style=flat-square&logo=neovim&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+
+</details>
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [**Page Pilot**](https://github.com/lakshyarao22/Page-Pilot) | Minimal, keyboard-driven new tab extension. [Get it on Chrome Web Store!](https://chromewebstore.google.com/detail/page-pilot/fbjapfnmaijdmggcbmnghmgacejokmce) | JavaScript |
+| [**Ollama Translator**](https://github.com/lakshyarao22/Ollama-Translator) | Privacy-first translation tool running on a self-hosted GPU with Ollama | HTML, JS, AWS |
+| [**ES Theme Perfect Gameboy**](https://github.com/lakshyarao22/es-theme-perfect-gameboy) | Retro Gameboy-inspired theme for EmulationStation handhelds | Shell, XML |
+| [**DWM**](https://github.com/lakshyarao22/dwm) | My custom fork of the Dynamic Window Manager | C |
+| [**Todo-Terminal**](https://github.com/lakshyarao22/Todo-Terminal) | Simple terminal todo list — reminds you of tasks every time you open a shell | Shell |
+| [**DigiWallet**](https://github.com/lakshyarao22/digiwallet) | Digital wallet mobile application | Dart / Flutter |
+| [**24/7 Live Streaming**](https://github.com/lakshyarao22/24-7-live-streaming) | Automated 24/7 live streaming setup | Python |
+
+---
+
+### 🧪 What I'm Into
+
+- **Security Automation** — Building AI-augmented SOC workflows and automated triage
+- **Homelab** — Self-hosting everything on NixOS, because why not
+- **Retro Gaming** — Designing themes for handheld emulators
+- **IoT & Embedded** — Arduino & Raspberry Pi projects for home automation
+- **Privacy Tools** — Self-hosted alternatives using local LLMs
+- **Linux Rice** — Arch + DWM + Neovim + ZSH (you know the drill)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lakshyarao22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyarao22&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <em>"The best security tooling is built by people who understand both the defender's mindset and the developer's craft."</em>
+</p>
