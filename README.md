@@ -13,9 +13,9 @@
 
 ### 🔐 What I Do
 
-I'm a **Cybersecurity Engineer** and member of a **CSIRT** (Computer Security Incident Response Team), where I build security automation tooling, develop SIEM detection content, and create incident response workflows that help defenders move faster.
+I'm a **Security Engineer** and member of a **CSIRT** (Computer Security Incident Response Team) at a global cybersecurity company. I build security automation that makes defenders faster, develop SIEM detection content that catches real threats, architect SOAR integrations that eliminate repetitive work, and occasionally break things on purpose (penetration testing).
 
-When I'm not responding to incidents, I'm writing code — from browser extensions and mobile apps to homelab infrastructure and retro gaming themes.
+When I'm not responding to incidents or writing detection rules, I'm building tools — browser extensions, privacy-first AI apps, retro gaming themes, or automating my homelab into oblivion.
 
 ---
 
