@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://about.inqstv.in/">🌐 Website</a> •
-  <a href="https://lakshyarao22.github.io/portfolio/">📂 Portfolio</a>
+  <a href="https://youtu.be/@inqstv/">▶️ Youtube</a>
 </p>
 
 ---
