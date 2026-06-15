@@ -91,16 +91,16 @@ When I'm not responding to incidents or writing detection rules, I'm building to
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyarao22&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyarao22&theme=github&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshyarao22&theme=tokyonight" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lakshyarao22&theme=github" alt="Profile Details" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshyarao22&theme=tokyonight" alt="Repos per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshyarao22&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lakshyarao22&theme=github" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lakshyarao22&theme=github" alt="Stats" />
 </p>
 
 ---
